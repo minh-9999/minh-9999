@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minh-9999&color=blueviolet&style=flat-square" alt="Profile Views"/><br>
+  <br>
   🏆 Metrics
 </p>
 
