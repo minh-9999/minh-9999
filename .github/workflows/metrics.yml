@@ -1,0 +1,23 @@
+
+
+name: Metrics
+
+on:
+  schedule: 
+    - cron: "0 */6 * * *" # run every 6 hours
+  workflow_dispatch: # Allows manual clicking of "Run workflow" button
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # The options below allow for additional customization.
+          base: header, repositories
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_stars: yes
