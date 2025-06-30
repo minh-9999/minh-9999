@@ -23,6 +23,62 @@
 - 🌱 Currently learning more about **Java, Rust, MatLab**
 - ⚡ Interests: **Coding, Sharing knowledge, Building useful tools**
 
+<div align="center">
+    <a href="https://www.gitanimals.org/en_US">
+        <img
+          src="https://render.gitanimals.org/farms/minh-9999"
+          width="1000"
+          height="300"
+        />
+    </a>
+</div>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Dog-🐶_Cute-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Dragon-🐲_Roaring-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🐱_Cat-Cute-pink?style=for-the-badge" />
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/🦊_Fox-Clever-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🐼_Panda-Lazy-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🦄_Unicorn-Magic-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🐢_Turtle-Slow-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/🐧_Penguin-Cool-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/🦁_Lion-Brave-gold?style=flat-square" />
+    <img src="https://img.shields.io/badge/🐰_Bunny-Fast-pink?style=flat-square" />
+    <img src="https://img.shields.io/badge/🐳_Whale-Huge-cyan?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍_Snake-Sneaky-green?style=plastic" />
+  <img src="https://img.shields.io/badge/🦉_Owl-Wise-brown?style=plastic" />
+  <img src="https://img.shields.io/badge/🐴_Horse-Strong-darkred?style=plastic" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🐸_Frog-Jumpy-limegreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🦢_Swan-Elegant-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🦅_Eagle-Powerful-darkblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🦒_Giraffe-Tall-yellow?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🐙_Octopus-Smart-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/🦩_Flamingo-Stylish-pink?style=flat-square" />
+  <img src="https://img.shields.io/badge/🦓_Zebra-Unique-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/🦔_Hedgehog-Cute-brown?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🐝_Bee-Busy-gold?style=plastic" />
+  <img src="https://img.shields.io/badge/🦋_Butterfly-Colorful-lightblue?style=plastic" />
+  <img src="https://img.shields.io/badge/🦭_Seal-Playful-gray?style=plastic" />
+  <img src="https://img.shields.io/badge/🦘_Kangaroo-Jumpy-orange?style=plastic" />
+</p>
 
 
 ## 🛠 Skills & Tools
