@@ -33,6 +33,8 @@
     </a>
 </div>
 
+<br> <br>
+
 <p align="center">
     <img src="https://img.shields.io/badge/Dog-🐶_Cute-orange?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Dragon-🐲_Roaring-green?style=for-the-badge" />
@@ -87,9 +89,13 @@
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) 
 
-![C/C++](https://img.shields.io/badge/C/C++-%23F7DF1E.svg?style=flat&logo=c_c++&logoColor=black)
+![C](https://img.shields.io/badge/C-FFD700.svg?style=flat&logo=c&logoColor=black)
+
+![C++](https://img.shields.io/badge/C++-purple.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23777BB4.svg?style=flat&logo=javascript&logoColor=white)
 
@@ -97,7 +103,6 @@
 
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-![VHDL](https://img.shields.io/badge/VHDL-%23007EC6.svg?style=flat&logo=vhdl&logoColor=white)
 
 🔹 **Tools & Frameworks:**
 
@@ -113,9 +118,9 @@
 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=flat&logo=visualstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=flat&logo=vimeo&logoColor=white)
 
-![VSCode](https://img.shields.io/badge/VSCode-A7C7E7.svg?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![VSCode](https://img.shields.io/badge/VSCode-A7C7E7.svg?style=flat&logo=vivaldi&logoColor=007ACC)
 
 ![Qt](https://img.shields.io/badge/Qt-A7DFB5.svg?style=flat&logo=qt&logoColor=white)
 
