@@ -151,9 +151,16 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minh-9999&show_icons=true&theme=aura" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh-9999&layout=compact&theme=ambient_gradient" alt="Most Used Languages"/>
+  <!-- Badge số repo stars -->
+  <img src="https://img.shields.io/github/stars/minh-9999?style=for-the-badge" alt="GitHub Stars"/>
+  
+  <!-- Badge số repo forks -->
+  <!-- <img src="https://img.shields.io/github/forks/minh-9999/the-invincible-southern-soaring-eagle?style=for-the-badge" alt="GitHub Forks"/> -->
+  
+  <!-- Badge ngôn ngữ chính -->
+  <img src="https://img.shields.io/github/languages/top/minh-9999/the-invincible-southern-soaring-eagle?style=for-the-badge" alt="Top Language"/>
 </p>
+
 
 <p align="center">
   <br>
